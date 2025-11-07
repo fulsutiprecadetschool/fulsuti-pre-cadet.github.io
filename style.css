@@ -1,4 +1,9 @@
 /* ============================
+   Google Bengali Font Import
+============================ */
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@400;600&display=swap');
+
+/* ============================
    Basic Reset & Body
 ============================ */
 * {
@@ -173,4 +178,5 @@ footer {
   padding: 15px 0;
   font-size: 14px;
 }
+
 
